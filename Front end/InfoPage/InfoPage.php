@@ -13,11 +13,11 @@
 <body>
     
     <header> <img src="../Assets/NoScam.png" id="NoScam">  
-        <button id="HomeBtn" class="HeaderBtns" >Home</button>
-        <button id="InfoBtn" class="HeaderBtns" >Info</button>
-        <button id="TestenBtn" class="HeaderBtns" >Testen</button>
-        <button id="CursussenBtn" class="HeaderBtns" >Cursussen</button>
-        <button id="ExamenBtn" class="HeaderBtns" >Examen</button>
+        <a href="../HomePage/HomePage.php"><button id="HomeBtn" class="HeaderBtns" >Home</button></a>
+        <a href="../InfoPage/InfoPage.php"><button id="InfoBtn" class="HeaderBtns" >Info</button></a>
+        <a href="../TestenPage/TestenPage.php"><button id="TestenBtn" class="HeaderBtns" >Testen</button></a>
+        <a href="../CursussenPage/CursussenPage.php"><button id="CursussenBtn" class="HeaderBtns" >Cursussen</button></a>
+        <a href="../ExamenPage/ExamenPage.php"><button id="ExamenBtn" class="HeaderBtns" >Examen</button></a>
     </header>
 
 
